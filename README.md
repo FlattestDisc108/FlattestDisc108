@@ -1,7 +1,7 @@
-🍵  Your friendly tea-enjoying guy.
-💻  Learning Computer Programming, Currently working on Java.
-🫡  Respect to all the people that helped me in my programming career.
-👤  14.
+- 🍵  Your friendly tea-enjoying guy.
+- 💻  Learning Computer Programming, Currently working on Java.
+- 🫡  Respect to all the people that helped me in my programming career.
+- 👤  14.
 He/Him
 
 <!---
